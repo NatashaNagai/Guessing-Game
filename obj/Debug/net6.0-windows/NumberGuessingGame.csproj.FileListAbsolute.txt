@@ -1,0 +1,17 @@
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\bin\Debug\net6.0-windows\NumberGuessingGame.exe
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\bin\Debug\net6.0-windows\NumberGuessingGame.deps.json
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\bin\Debug\net6.0-windows\NumberGuessingGame.runtimeconfig.json
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\bin\Debug\net6.0-windows\NumberGuessingGame.dll
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\bin\Debug\net6.0-windows\NumberGuessingGame.pdb
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\obj\Debug\net6.0-windows\NumberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\obj\Debug\net6.0-windows\NumberGuessingGame.Form1.resources
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\obj\Debug\net6.0-windows\NumberGuessingGame.csproj.GenerateResource.cache
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\obj\Debug\net6.0-windows\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\obj\Debug\net6.0-windows\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\obj\Debug\net6.0-windows\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\obj\Debug\net6.0-windows\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\obj\Debug\net6.0-windows\NumberGuessingGame.dll
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\obj\Debug\net6.0-windows\refint\NumberGuessingGame.dll
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\obj\Debug\net6.0-windows\NumberGuessingGame.pdb
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\obj\Debug\net6.0-windows\NumberGuessingGame.genruntimeconfig.cache
+C:\Users\IdeaPad Flex\source\repos\NumberGuessingGame\obj\Debug\net6.0-windows\ref\NumberGuessingGame.dll
